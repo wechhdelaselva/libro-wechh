@@ -1,0 +1,4 @@
+el flujo de trabajo con git consiste en:
+1) hacer cambios en el repositorio
+2) añadir los cambios a la zona de intercambios
+3) hacer un commit de los cambios
